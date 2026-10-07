@@ -1,5 +1,0 @@
-{
-  "key": "cmd+shift+k",
-  "command": "workbench.action.tasks.runTask",
-  "args": "cmake build"
-}
